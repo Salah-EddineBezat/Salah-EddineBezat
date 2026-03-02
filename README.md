@@ -1,10 +1,10 @@
 # Salah-Eddine Bezat
 
-Full-Stack Developer and Co-Founder building structured, data-driven web and mobile applications.
+Full-Stack Developer and Co-Founder of [Tarteeb: Muslim Productivity](https://play.google.com/store/apps/details?id=com.tarteeb.myapp), building structured, data-driven web and mobile applications.
 
 ---
 
-Currently studying [Techniek College Rotterdam] as part of the curriculum[MBO 4 Software Dev], gaining hands-on experience with Laravel, React Native, and database integration while working on real-world projects.
+Currently studying at Techniek College Rotterdam as part of the curriculum MBO 4 Software Dev, gaining hands-on experience with Laravel, React Native, and database integration while working on real-world projects and collaborating in SCRUM teams.
 
 I develop applications with real database integration, focusing on clean architecture, maintainable code, and functional end-to-end systems.  
 Currently strengthening backend architecture skills with Laravel to build production-ready systems for companies and future independent products.
@@ -14,17 +14,22 @@ Currently strengthening backend architecture skills with Laravel to build produc
 ## Core Skills
 
 ### Frontend
-- React Native (mobile applications)
-- React (web applications)
-- Vite (modern frontend tooling)
-- HTML & CSS
-- JavaScript (ES6+)
-- Python (basics)
+- React Native (mobile applications)  
+- React (web applications)  
+- Vite (modern frontend tooling)  
+- HTML & CSS  
+- JavaScript (ES6+)  
+- TailwindCSS  
 
 ### Backend
-- SQL (Supabase, SQL-based backends)
-- Firebase (real-time database & authentication)
-- Laravel framework (backend & API development)
+- PHP & Object-Oriented Programming (OOP)  
+- Laravel framework (backend & API development)  
+- SQL (Supabase, SQL-based backends)  
+- Firebase (real-time database & authentication)  
+- Python (basics)  
+- REST API design & integration  
+- SCRUM workflow, Jira & Trello project management  
+- Team leadership & coordination  
 
 ---
 
@@ -32,7 +37,8 @@ Currently strengthening backend architecture skills with Laravel to build produc
 - Build maintainable, readable, and structured code  
 - Focus on functionality and long-term reliability  
 - Think in systems, not just features  
-- Integrate databases and APIs efficiently
+- Integrate databases and APIs efficiently  
+- Collaborate effectively within agile teams  
 
 ---
 
@@ -40,7 +46,7 @@ Currently strengthening backend architecture skills with Laravel to build produc
 - Advanced Laravel architecture patterns  
 - Supabase integration  
 - Docker-based development environments  
-- Scalable backend systems for production
+- Scalable backend systems for production  
 
 ---
 
@@ -52,7 +58,7 @@ Currently strengthening backend architecture skills with Laravel to build produc
 - Shipped on **iOS and Android**  
 - iOS downloads: 500+  
 - Features: Task organization and productivity tracking for Muslim users  
-- My role: Idea conception, foundational planning, frontend & database integration, deployment coordination, team collaboration  
+- My role: Idea conception, foundational planning, frontend & backend integration, deployment coordination, team management, SCRUM workflow  
 - iOS link: [App Store](https://apps.apple.com/nl/app/tarteeb-muslim-productivity/id6744073360?l=en-GB)
 
 ### 🌐 [Tarteeb Website – Online Prototype](https://www.tarteeb.app)
