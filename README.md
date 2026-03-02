@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, my name is Salah-Eddine Bezat</h1>
+<h1 align="center">Greetings,my name is Salah-Eddine Bezat</h1>
 <h3 align="center">A disciplined, creative, innovative and goal-oriented developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
