@@ -1,59 +1,50 @@
 # Salah-Eddine Bezat
 
-Full-Stack Developer building structured, data-driven applications.
+Full-Stack Developer building structured, data-driven web and mobile applications.
 
 ---
 
-I develop mobile and web applications with real database integration and a strong focus on backend logic and system structure.
-
-Currently strengthening my backend architecture skills with Laravel to build production-ready systems for companies and future software products.
+I develop applications with real database integration, focusing on clean architecture, maintainable code, and functional end-to-end systems.  
+Currently strengthening backend architecture skills with Laravel to build production-ready systems for companies and future independent products.
 
 ---
 
-## Core Capabilities
+## Core Skills
 
-- React Native application development
+### Frontend
+- React Native (mobile applications)
+- React (web applications)
+- Vite (modern frontend tooling)
+- HTML & CSS
 - JavaScript (ES6+)
-- PHP development
-- SQL database design & queries
-- Firebase integration
-- REST API integration
-- Clean and structured project organization
+- Python (basics)
 
----
-
-## Backend Focus (Active Development)
-
-- Laravel framework
-- Authentication & authorization systems
-- API-driven architecture
-- Database relationships & migrations
-- Building scalable backend foundations
+### Backend
+- SQL (Supabase, SQL-based backends)
+- Firebase (real-time database & authentication)
+- Laravel framework (backend & API development)
 
 ---
 
 ## Development Approach
-
-- Write maintainable and readable code
-- Focus on functionality before complexity
-- Understand the system, not just the feature
-- Build with long-term reliability in mind
+- Build maintainable, readable, and structured code  
+- Focus on functionality and long-term reliability  
+- Think in systems, not just features  
+- Integrate databases and APIs efficiently
 
 ---
 
-## Currently Expanding Into
-
-- Advanced Laravel architecture patterns
-- Docker-based development environments
-- Supabase integration
-- Production-ready backend deployment workflows
+## Currently Learning / Expanding
+- Advanced Laravel architecture patterns  
+- Supabase integration  
+- Docker-based development environments  
+- Scalable backend systems for production
 
 ---
 
 ## Goal
-
-To design and build reliable software systems for companies while developing the skills and foundation to create scalable independent products.
+Deliver reliable software for companies while building the foundation for independent products and MVPs.
 
 ---
 
-📩 Open to collaboration, technical growth, and professional development opportunities.
+📩 Open to collaboration, contract work, and professional growth opportunities.
