@@ -4,6 +4,8 @@ Full-Stack Developer and Co-Founder building structured, data-driven web and mob
 
 ---
 
+Currently studying [Techniek College Rotterdam] as part of the curriculum, gaining hands-on experience with Laravel, React Native, and database integration while working on real-world projects.
+
 I develop applications with real database integration, focusing on clean architecture, maintainable code, and functional end-to-end systems.  
 Currently strengthening backend architecture skills with Laravel to build production-ready systems for companies and future independent products.
 
