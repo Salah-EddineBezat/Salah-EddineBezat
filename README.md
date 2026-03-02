@@ -42,6 +42,24 @@ Currently strengthening backend architecture skills with Laravel to build produc
 
 ---
 
+## Notable Projects
+
+### 📱 [Tarteeb: Muslim Productivity – Mobile App](https://play.google.com/store/apps/details?id=com.tarteeb.myapp)
+- Developed with React Native and Firebase backend  
+- Shipped on **iOS and Android**  
+- iOS downloads: 500+  
+- Features: Task organization, productivity tracking for Muslim users  
+- My role: Frontend & database integration, deployment coordination, team collaboration  
+- iOS link: [App Store](https://apps.apple.com/nl/app/tarteeb-muslim-productivity/id6744073360?l=en-GB)
+
+### 🌐 [Tarteeb Website – Online Prototype](https://www.tarteeb.app)
+- Currently online and accessible  
+- Built with React / Vite with backend integration  
+- Work-in-progress: adding full functionality and backend improvements  
+- Purpose: Showcase UI/UX and frontend capabilities
+
+---
+
 ## Goal
 Deliver reliable software for companies while building the foundation for independent products and MVPs.
 
