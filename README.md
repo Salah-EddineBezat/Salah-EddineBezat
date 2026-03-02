@@ -1,6 +1,6 @@
 # Salah-Eddine Bezat
 
-Full-Stack Developer building structured, data-driven web and mobile applications.
+Full-Stack Developer and Co-Founder building structured, data-driven web and mobile applications.
 
 ---
 
@@ -45,7 +45,8 @@ Currently strengthening backend architecture skills with Laravel to build produc
 ## Notable Projects
 
 ### 📱 [Tarteeb: Muslim Productivity – Mobile App](https://play.google.com/store/apps/details?id=com.tarteeb.myapp)
-- Developed with React Native and Firebase backend  
+- Developed as **co-founder and co-owner** with a team  
+- Built with React Native and Firebase backend  
 - Shipped on **iOS and Android**  
 - iOS downloads: 500+  
 - Features: Task organization, productivity tracking for Muslim users  
@@ -53,7 +54,7 @@ Currently strengthening backend architecture skills with Laravel to build produc
 - iOS link: [App Store](https://apps.apple.com/nl/app/tarteeb-muslim-productivity/id6744073360?l=en-GB)
 
 ### 🌐 [Tarteeb Website – Online Prototype](https://www.tarteeb.app)
-- Currently online and accessible  
+- Developed as **co-founder and co-owner**  
 - Built with React / Vite with backend integration  
 - Work-in-progress: adding full functionality and backend improvements  
 - Purpose: Showcase UI/UX and frontend capabilities
